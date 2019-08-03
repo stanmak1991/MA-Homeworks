@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="maven">
+    <ANNOTATIONS>
+      <root url="file://C:/Program Files/JetBrains/maven" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://C:/Program Files/JetBrains/maven" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/Program Files/JetBrains/maven" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://C:/Program Files/JetBrains/maven" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://C:/Program Files/JetBrains/maven" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/JetBrains/maven" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/JetBrains/maven" recursive="false" type="SOURCES" />
+  </library>
+</component>
